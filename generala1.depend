@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1499480107 source:c:\users\lucas\desktop\generala\generala1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"libgenerala.h"
+
+1499287530 c:\users\lucas\desktop\generala\generala1\libgenerala.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
